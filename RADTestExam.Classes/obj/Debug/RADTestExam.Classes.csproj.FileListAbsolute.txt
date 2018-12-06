@@ -1,0 +1,14 @@
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\RADTestExam.Classes.dll.config
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\RADTestExam.Classes.dll
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\RADTestExam.Classes.pdb
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\EntityFramework.dll
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\EntityFramework.xml
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.csprojAssemblyReference.cache
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.csproj.CoreCompileInputs.cache
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.csproj.CopyComplete
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.dll
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.pdb
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.Migrations.firstmigration.resources
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.csproj.GenerateResource.cache
