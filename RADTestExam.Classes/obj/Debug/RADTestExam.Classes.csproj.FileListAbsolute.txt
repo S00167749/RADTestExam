@@ -12,3 +12,4 @@ C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTes
 C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.pdb
 C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.Migrations.firstmigration.resources
 C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.csproj.GenerateResource.cache
+C:\Users\s00167749\source\repos\RADtestExam\RADTestExam.Classes\obj\Debug\RADTestExam.Classes.Migrations.secondmigration.resources

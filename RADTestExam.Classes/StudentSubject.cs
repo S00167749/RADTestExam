@@ -13,17 +13,19 @@ namespace RADTestExam.Classes
     {
         [Key]
         [Column(Order =1)]
-       
+        [ForeignKey("associatedStudent")]
         public string Sid { get; set; }
-        [ForeignKey("associatedSubject")]
-        public virtual Subject associatedSubject { get; set; }
+     
+        public virtual Student associatedStudent { get; set; }
         [Key]
         [Column(Order = 2)]
-       
+        [ForeignKey("associatedSubject")]
         public int SubjectID { get; set; }
-        [ForeignKey("associatedStudent")]
-        public virtual Student associatedStudent { get; set; }
-       
-       
+      
+        public virtual Subject associatedSubject { get; set; }
+
+
+     //get the names right
+
     }
 }
